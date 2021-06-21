@@ -21,7 +21,7 @@
 | lesson16 | 完成 | 2021-05-30 |
 | lesson17 | 完成 | 2021-06-02 |
 | lesson18 | 完成 | 2021-06-10 |
-| lesson19 | TODO |  |
+| lesson19 | 完成 | 2021-06-18 |
 | lesson20 | TODO |  |
 | lesson21 | TODO |  |
 | lesson22 | TODO |  |
