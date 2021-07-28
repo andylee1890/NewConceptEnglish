@@ -26,9 +26,9 @@
 | lesson21 | 完成 | 2021-07-04 |
 | lesson22 | 完成 | 2021-07-10 |
 | lesson23 | 完成 | 2021-07-15 |
-| lesson24 | TODO | 2021-07-19 |
-| lesson25 | TODO | 2021-07-24 |
-| lesson26 | TODO | 2021-07-27 |
+| lesson24 | 完成 | 2021-07-19 |
+| lesson25 | 完成 | 2021-07-24 |
+| lesson26 | 完成 | 2021-07-27 |
 | lesson27 | TODO |  |
 | lesson28 | TODO |  |
 | lesson29 | TODO |  |
