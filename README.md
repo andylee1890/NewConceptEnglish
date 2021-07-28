@@ -4,7 +4,6 @@
 
 
 ## **在线学习网站**
-*说明:应该都是官方网站上传的,有版权问题的话我就去掉*
 
 
 [新概念英语第一册 (新东方)(霍娜)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOwRBJk5p13oYBlEF1MB953)
