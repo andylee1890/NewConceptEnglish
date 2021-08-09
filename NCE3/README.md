@@ -32,7 +32,7 @@
 | lesson27 | 完成 | 2021-07-28 |
 | lesson28 | 完成 | 2021-08-03 |
 | lesson29 | 完成 | 2021-08-05 |
-| lesson30 | TODO |  |
+| lesson30 | 完成 | 2021-08-09 |
 | lesson31 | TODO |  |
 | lesson32 | TODO |  |
 | lesson33 | TODO |  |
