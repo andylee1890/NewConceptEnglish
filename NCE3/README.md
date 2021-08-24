@@ -37,7 +37,7 @@
 | lesson32 | 完成 | 2021-08-14 |
 | lesson33 | 完成 | 2021-08-20 |
 | lesson34 | 完成 | 2021-08-21 |
-| lesson35 | TODO |  |
+| lesson35 | 完成 | 2021-08-24 |
 | lesson36 | TODO |  |
 | lesson37 | TODO |  |
 | lesson38 | TODO |  |
