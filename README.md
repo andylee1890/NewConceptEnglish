@@ -34,6 +34,8 @@
 
 [新概念英语听力练习](https://www.youtube.com/playlist?list=PL1pijTdUwLsfVGGjbJEp4IAVIJ06AnAW_)
 
+[词汇、词根词缀刘彬20000词汇巅峰速记班（暂时200课）](https://www.youtube.com/playlist?list=PLJSOIPlB395WsFOcrYSjxrey4UHL79jsf)
+
 ### **补充资料**
 
 [谢梦媛发音篇](https://www.youtube.com/playlist?list=PLQ67idcbIuFb89IoMgOI5RZpD9vJO1_it)
@@ -53,8 +55,6 @@
 [【英文频道】mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
 
 [【英文频道】Rachel's English](https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA)
-
-
 
 ## **新概念2册学习笔记**
 
