@@ -44,7 +44,7 @@
 | Lesson39 | 完成 | 2021-09-04 |
 | Lesson40 | 完成 | 2021-09-07 |
 | Lesson41 | 完成 | 2021-09-11 |
-| Lesson42 | TODO |  |
+| Lesson42 | 完成 | 2021-09-15 |
 | Lesson43 | TODO |  |
 | Lesson44 | TODO |  |
 | Lesson45 | TODO |  |
