@@ -57,7 +57,7 @@
 | Lesson52 | 完成 | 2021-10-04 |
 | Lesson53 | 完成 | 2021-10-05 |
 | Lesson54 | 完成 | 2021-10-06 |
-| Lesson55 | TODO |  |
+| Lesson55 | 完成 | 2021-10-07 |
 | Lesson56 | TODO |  |
 | Lesson57 | TODO |  |
 | Lesson58 | TODO |  |
