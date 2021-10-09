@@ -59,7 +59,7 @@
 | Lesson54 | 完成 | 2021-10-06 |
 | Lesson55 | 完成 | 2021-10-07 |
 | Lesson56 | 完成 | 2021-10-09 |
-| Lesson57 | TODO |  |
+| Lesson57 | 完成 | 2021-10-09 |
 | Lesson58 | TODO |  |
 | Lesson59 | TODO |  |
 | Lesson60 | TODO |  |
