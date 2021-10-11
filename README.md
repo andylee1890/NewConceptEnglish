@@ -38,7 +38,7 @@
 
 ### **补充资料**
 
-[谢梦媛发音篇](https://www.youtube.com/playlist?list=PLQ67idcbIuFb89IoMgOI5RZpD9vJO1_it)
+[谢孟媛发音篇](https://www.youtube.com/playlist?list=PLQ67idcbIuFb89IoMgOI5RZpD9vJO1_it)
 
 [【官方】(高阶)史嘉琳发音课程](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S102) 
 
