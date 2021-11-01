@@ -75,5 +75,5 @@
 * 吐槽：新概念英语在豆瓣上的评分大概是9分以上，大家对它的评论是英语部分吧；在这本书里中文翻译部分，知识点汇总部分都充斥着大量的错误，译文质量极差。
 
 ## Anki
-* 新概念第三册册的笔记anki下载地址：https://ankiweb.net/shared/info/1533041577
+* 新概念第三册的笔记anki下载地址：https://ankiweb.net/shared/info/1533041577
 * 新概念第四册的笔记anki下载地址：https://ankiweb.net/shared/info/1169581791

@@ -58,5 +58,5 @@
 * 当前文档的样式格式是为了将笔记移植到anki时更方便，在anki上看起来更直观，两边保持协调统一。
 
 ## Anki
-* 新概念第三册册的笔记anki下载地址：https://ankiweb.net/shared/info/1533041577
+* 新概念第三册的笔记anki下载地址：https://ankiweb.net/shared/info/1533041577
 * 新概念第四册的笔记anki下载地址：https://ankiweb.net/shared/info/1169581791
