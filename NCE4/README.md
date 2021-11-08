@@ -4,8 +4,8 @@
 | ---- | ---- | ---- |
 | lesson01 | 完成 | 2021-10-30 |
 | lesson02 | 完成 | 2021-10-31 |
-| lesson03 | TODO |  |
-| lesson04 | TODO |  |
+| lesson03 | 完成 | 2021-11-06 |
+| lesson04 | 完成 | 2021-11-07 |
 | lesson05 | TODO |  |
 | lesson06 | TODO |  |
 | lesson07 | TODO |  |
