@@ -8,8 +8,8 @@
 | lesson04 | 完成 | 2021-11-07 |
 | lesson05 | 完成 | 2021-11-12 |
 | lesson06 | 完成 | 2021-11-14 |
-| lesson07 | TODO |  |
-| lesson08 | TODO |  |
+| lesson07 | 完成 | 2021-11-17 |
+| lesson08 | 完成 | 2021-11-19 |
 | lesson09 | TODO |  |
 | lesson10 | TODO |  |
 | lesson11 | TODO |  |
