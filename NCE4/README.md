@@ -14,7 +14,7 @@
 | Lesson10 | 完成 | 2021-11-26 |
 | Lesson11 | 完成 | 2021-11-27 |
 | Lesson12 | 完成 | 2021-11-27 |
-| Lesson13 | TODO |  |
+| Lesson13 | 完成 | 2021-11-28 |
 | Lesson14 | TODO |  |
 | Lesson15 | TODO |  |
 | Lesson16 | TODO |  |
