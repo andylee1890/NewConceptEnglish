@@ -10,7 +10,7 @@
 
 [【官方】新概念英语第二册 (新东方)(田静)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOSvEYiO2EzUBIux5M7VOqu)
 
-[【官方】新概念英语第二册 (刘飞飞)](https://www.youtube.com/playlist?list=PL5YAbMpT3Nh3k4XoR6u_r1bhr_Vg00QyQ)
+[【官方】新概念英语第三册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOxz8hkNkkCep9QAqpg2tcx)
 
 [【官方】新概念英语第三册 (新东方)(2016薛冰/史学冬)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMw-KFlqfupuIv8fNlsrood)
 
