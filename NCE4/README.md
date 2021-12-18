@@ -19,12 +19,12 @@
 | Lesson15 | 完成 | 2021-12-04 |
 | Lesson16 | 完成 | 2021-12-05 |
 | Lesson17 | 完成 | 2021-12-06 |
-| Lesson18 | TODO |  |
-| Lesson19 | TODO |  |
-| Lesson20 | TODO |  |
-| Lesson21 | TODO |  |
-| Lesson22 | TODO |  |
-| Lesson23 | TODO |  |
+| Lesson18 | 完成 | 2021-12-08 |
+| Lesson19 | 完成 | 2021-12-09 |
+| Lesson20 | 完成 | 2021-12-10 |
+| Lesson21 | 完成 | 2021-12-12 |
+| Lesson22 | 完成 | 2021-12-13 |
+| Lesson23 | 完成 | 2021-12-14 |
 | Lesson24 | TODO |  |
 | Lesson25 | TODO |  |
 | Lesson26 | TODO |  |
