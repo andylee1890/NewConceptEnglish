@@ -25,7 +25,7 @@
 | Lesson21 | 完成 | 2021-12-12 |
 | Lesson22 | 完成 | 2021-12-13 |
 | Lesson23 | 完成 | 2021-12-14 |
-| Lesson24 | TODO |  |
+| Lesson24 | 完成 | 2021-12-29 |
 | Lesson25 | TODO |  |
 | Lesson26 | TODO |  |
 | Lesson27 | TODO |  |
