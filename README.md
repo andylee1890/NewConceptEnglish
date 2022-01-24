@@ -40,27 +40,17 @@
 
 [谢孟媛发音篇](https://www.youtube.com/playlist?list=PLQ67idcbIuFb89IoMgOI5RZpD9vJO1_it)
 
-[【官方】(高阶)史嘉琳发音课程](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S102) 
+[【官方】(高阶)史嘉琳发音课程](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S102)
 
 [史嘉琳高阶发音课程B站地址](https://www.bilibili.com/video/BV1bf4y1k7xC?from=search&seid=3965439832955446661)
 
 [《走遍美国》](https://www.youtube.com/playlist?list=PLkHYKt-E2bEtG374gWgHsMG-Q7KaJbmf0)
 
-[【英文频道】肯德拉语言学校 - Kendra's Language School](https://www.youtube.com/channel/UCTYQzAi6YOcgv2mkzsfzmpA)
-
-[【英文频道】koolearn](https://www.youtube.com/channel/UC_OH-ujuWqKtwtDJ5xoZfcg)
-
-[【英文频道】linguamarina](https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg)
-
-[【英文频道】mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g)
-
-[【英文频道】Rachel's English](https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA)
-
 ## **新概念2册学习笔记**
 
 此文档来源于网络，整理的已经很详尽了，我在学习过程中也使用的此文档，所以就不重复造轮子了。
 
-## **新概念3册学习笔记**
+## **新概念3册、3册学习笔记**
 
 由于网络上没有好的笔记资料，我在现有的一套课件基础上又做了进一步的整理，持续更新中。
 
@@ -72,15 +62,13 @@
 
 ## **相应的Anki记忆资料**
 
-[我的Anki分享主页](https://ankiweb.net/shared/byauthor/565817692) 
+[我的Anki分享主页](https://ankiweb.net/shared/byauthor/565817692)
 
-<https://ankiweb.net/shared/byauthor/565817692>
+[https://ankiweb.net/shared/byauthor/565817692](https://ankiweb.net/shared/byauthor/565817692)
 
 ### **单词记忆卡片**
 
 [Longman 3000 and Academic Words (English-Simplified Chinese)](https://ankiweb.net/shared/info/565817692)
-
-[单词合集:整合了新概念，雅思，托福和四六级，共9500左右](https://ankiweb.net/shared/info/1323516802)
 
 [新概念全四册单词](https://ankiweb.net/shared/info/2017522068)
 
@@ -88,16 +76,18 @@
 ![单词记忆卡片](./img/anki_单词2.png)
 ![单词记忆卡片](./img/anki_单词3.png)
 
-## **课文记忆卡片**
+### **课文记忆卡片**
 
-目前只维护3册课文带笔记
 新概念第三册课文 [按句子背诵,带笔记](https://ankiweb.net/shared/info/1533041577)
+
+新概念第四册课文 [按句子背诵,带笔记](https://ankiweb.net/shared/info/1533041577)
 
 ![课文记忆卡片](./img/anki_课文1.png)
 ![课文记忆卡片](./img/anki_课文2.png)
 ![课文记忆卡片](./img/anki_课文3.png)
+![课文记忆卡片](./img/anki_课文4.png)
 
-## **一些常用的资料整理进了一个excel文档**：《单词.xslx》
+### **一些常用的资料整理****进了一个excel文档**：《单词.xslx》
 
 ![单词.xslx演示](./img/单词1.png)
 ![单词.xslx演示](./img/单词2.png)
