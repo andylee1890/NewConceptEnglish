@@ -1,7 +1,7 @@
 # *四册笔记更新状态*
 
-| 课程 | 状态 | 时间|
-| ---- | ---- | ---- |
+| 课程     | 状态 | 时间       |
+| -------- | ---- | ---------- |
 | Lesson01 | 完成 | 2021-10-30 |
 | Lesson02 | 完成 | 2021-10-31 |
 | Lesson03 | 完成 | 2021-11-06 |
@@ -29,27 +29,27 @@
 | Lesson25 | 完成 | 2022-01-05 |
 | Lesson26 | 完成 | 2022-01-12 |
 | Lesson27 | 完成 | 2022-01-19 |
-| Lesson28 | TODO |  |
-| Lesson29 | TODO |  |
-| Lesson30 | TODO |  |
-| Lesson31 | TODO |  |
-| Lesson32 | TODO |  |
-| Lesson33 | TODO |  |
-| Lesson34 | TODO |  |
-| Lesson35 | TODO |  |
-| Lesson36 | TODO |  |
-| Lesson37 | TODO |  |
-| Lesson38 | TODO |  |
-| Lesson39 | TODO |  |
-| Lesson40 | TODO |  |
-| Lesson41 | TODO |  |
-| Lesson42 | TODO |  |
-| Lesson43 | TODO |  |
-| Lesson44 | TODO |  |
-| Lesson45 | TODO |  |
-| Lesson46 | TODO |  |
-| Lesson47 | TODO |  |
-| Lesson48 | TODO |  |
+| Lesson28 | 完成 | 2022-01-24 |
+| Lesson29 | TODO |            |
+| Lesson30 | TODO |            |
+| Lesson31 | TODO |            |
+| Lesson32 | TODO |            |
+| Lesson33 | TODO |            |
+| Lesson34 | TODO |            |
+| Lesson35 | TODO |            |
+| Lesson36 | TODO |            |
+| Lesson37 | TODO |            |
+| Lesson38 | TODO |            |
+| Lesson39 | TODO |            |
+| Lesson40 | TODO |            |
+| Lesson41 | TODO |            |
+| Lesson42 | TODO |            |
+| Lesson43 | TODO |            |
+| Lesson44 | TODO |            |
+| Lesson45 | TODO |            |
+| Lesson46 | TODO |            |
+| Lesson47 | TODO |            |
+| Lesson48 | TODO |            |
 
 ## 说明
 
@@ -57,5 +57,6 @@
 * 当前文档的样式格式是为了将笔记移植到anki时更方便，在anki上看起来更直观，两边保持协调统一。
 
 ## Anki
+
 * 新概念第三册的笔记anki下载地址：https://ankiweb.net/shared/info/1533041577
 * 新概念第四册的笔记anki下载地址：https://ankiweb.net/shared/info/1169581791
