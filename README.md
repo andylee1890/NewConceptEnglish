@@ -12,7 +12,7 @@
 
 [【官方】新概念英语第三册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOxz8hkNkkCep9QAqpg2tcx)
 
-[【官方】新概念英语第四册 (新东方)(李延隆)(新版)]()
+[【官方】新概念英语第四册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMnvR5it_yjRnGiM6YfwZ8d)
 
 [【官方】新概念英语第三册 (新东方)(2016薛冰/史学冬)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMw-KFlqfupuIv8fNlsrood)
 
@@ -23,7 +23,6 @@
 [新概念英语第三册 (刘飞飞)](https://www.youtube.com/playlist?list=PL5YAbMpT3Nh1ho20sV0bpbLFzf6J9ygPV)
 
 ### **以下非官方地址可能会失效**
-
 
 [【非官方】新概念英语第三册 (李延隆)](https://www.youtube.com/playlist?list=PL1pijTdUwLseVy85adDtGFNWgb2vS12d3)
 
