@@ -32,8 +32,8 @@
 | Lesson28 | 完成 | 2022-01-24 |
 | Lesson29 | 完成 | 2022-02-15 |
 | Lesson30 | 完成 | 2022-03-03 |
-| Lesson31 | 完成 | 2022-02-08 |
-| Lesson32 | TODO |            |
+| Lesson31 | 完成 | 2023-02-08 |
+| Lesson32 | 完成 | 2023-02-08 |
 | Lesson33 | TODO |            |
 | Lesson34 | TODO |            |
 | Lesson35 | TODO |            |
