@@ -46,6 +46,10 @@
 
 [《走遍美国》](https://www.youtube.com/playlist?list=PLkHYKt-E2bEtG374gWgHsMG-Q7KaJbmf0)
 
+最近发现了一套不错的口语(美音)教材，感觉很不错：<br/>
+[《AmericanAccentTraining 4th Edition》](https://drive.google.com/file/d/1N46fnIrC0BiVze4lFl-jV_IJ7DM1cVIw/view)
+
+
 ## **新概念2册学习笔记**
 
 此文档来源于网络，整理的已经很详尽了，我在学习过程中也使用的此文档，所以就不重复造轮子了。
