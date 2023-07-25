@@ -46,8 +46,8 @@
 
 [《走遍美国》](https://www.youtube.com/playlist?list=PLkHYKt-E2bEtG374gWgHsMG-Q7KaJbmf0)
 
-最近发现了一套不错的口语(美音)教材，感觉很不错：<br/>
-[《AmericanAccentTraining 4th Edition》](https://drive.google.com/file/d/1N46fnIrC0BiVze4lFl-jV_IJ7DM1cVIw/view)
+最近发现了一套不错的口语(美音)教材，感觉很不错，pdf和音频分享地址：<br>
+[《AmericanAccentTraining 4th Edition》](https://drive.google.com/file/d/1N46fnIrC0BiVze4lFl-jV_IJ7DM1cVIw/view) 大概1G左右
 
 
 ## **新概念2册学习笔记**
