@@ -66,7 +66,7 @@
 
 ## **相应的Anki记忆资料**
 
-[我的Anki分享主页](https://ankiweb.net/shared/byauthor/565817692)
+[我的Anki分享主页](https://ankiweb.net/shared/by-author/1533041577)
 
 [https://ankiweb.net/shared/byauthor/565817692](https://ankiweb.net/shared/byauthor/565817692)
 
@@ -84,7 +84,7 @@
 
 新概念第三册课文 [按句子背诵,带笔记](https://ankiweb.net/shared/info/1533041577)
 
-新概念第四册课文 [按句子背诵,带笔记](https://ankiweb.net/shared/info/1533041577)
+新概念第四册课文 [按句子背诵,带笔记](https://ankiweb.net/shared/info/1169581791)
 
 ![课文记忆卡片](./img/anki_课文1_2.png)
 ![课文记忆卡片](./img/anki_课文2_2.png)
